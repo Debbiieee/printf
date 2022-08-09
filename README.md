@@ -1,2 +1,1 @@
-#printf
-This is a readme file
+Alx project on printf done by Oswin Justine, Ayonoadu and Deborah David. 
